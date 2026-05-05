@@ -3,6 +3,7 @@
 A web-based **Library Management System** built using **Django** and **Django REST Framework**. This project helps manage library operations such as user accounts, book inventory, and borrowing/return transactions.
 
 ---
+#<img width="1080" height="1080" alt="photo-collage png (2)" src="https://github.com/user-attachments/assets/2fb8deea-cd2f-4373-9de2-50f6b115fb24" />
 
 ## 🚀 Features
 
@@ -173,10 +174,10 @@ Developed as a Django-based library management solution for learning and practic
 
 ---
 
-💡 *Tip: Replace `<your-repo-url>` with your actual GitHub repository link.*
 
-#<img width="1538" height="742" alt="Screenshot 2026-05-05 152918" src="https://github.com/user-attachments/assets/68acff98-5571-4821-afc4-c327b16fc6d6" />
-#<img width="1574" height="748" alt="Screenshot 2026-05-05 152942" src="https://github.com/user-attachments/assets/c67e3d3b-a5d6-48c8-8ed5-d2c5781702c0" />
-#<img width="1571" height="670" alt="Screenshot 2026-05-05 153038" src="https://github.com/user-attachments/assets/1ee4d820-8346-41c5-afce-22a22d723d8c" />
+
+
+
+
 
 
